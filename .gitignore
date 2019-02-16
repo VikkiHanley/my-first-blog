@@ -5,3 +5,6 @@ django
 db.sqlite3
 /static
 .DS_Store
+.vscode/
+get-pip.py
+myvenv/
